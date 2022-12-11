@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.vsu.cs.tonkikh_r_a</groupId>
-    <artifactId>Task6_13</artifactId>
+    <artifactId>Task6_17</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Task6_13</name>
+    <name>Task6_17</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>ru.vsu.cs.tonkikh_r_a.task6_13/ru.vsu.cs.tonkikh_r_a.task6_13.HelloApplication
+                            <mainClass>ru.vsu.cs.tonkikh_r_a.task6_17/ru.vsu.cs.tonkikh_r_a.task6_17.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
